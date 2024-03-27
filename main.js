@@ -14,7 +14,7 @@
         }
       }
       return result.join('');
-    }
+    }//yes
 
  return function (str) {
       var asciiString = convertToAscii(str);
