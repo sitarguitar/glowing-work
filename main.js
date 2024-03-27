@@ -26,3 +26,4 @@
   exports.runLength = runLengthEncoding;
 
 }(typeof exports === 'undefined' ? window : exports));
+//good
