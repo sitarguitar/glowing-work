@@ -2,7 +2,7 @@
       var result = [];
       var zeros = 0;
       var zerosTemp = '';
-      var i = 0;
+      var i = 0;//nice
       for (; i < vector.length; i += 1) {
         if (vector[i] === '0') {
           zeros += 1;
